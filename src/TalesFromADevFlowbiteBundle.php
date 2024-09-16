@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace TalesFromADev\FlowbiteBundle;
 
-use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
+use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-final class TalesFromADevFlowbiteBundle extends AbstractBundle
+final class TalesFromADevFlowbiteBundle extends Bundle
 {
 }
